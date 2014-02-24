@@ -1,0 +1,3 @@
+Feature: Feature files on Github
+
+  Scenario: Should load feature files from a remote host
